@@ -71,7 +71,14 @@ zuversichtlich 确信的，充满信息的
 `````
 Selbst wenn Frauen eine Familie gegründet und Kinder bekommen haben, weichen sie nicht von ihren Werten und Einstellungen ab.
 
+Selbst wenn = auch wenn = obwohl
+
+Sie bleiben auf Erwerbsarbeit orientiert.
 Diese erachten sie als selbstverständlich, heute noch stärker als vor fünf Jahren.
+diese -> Erwerbsarbeit
+sie -> die Frauen, 同前面一句的sie
+= Sie erachten diese als selbstverständlich, heute noch stärker als vor fünf Jahren.
+她们认为工作是理所当然的，如今这种观念更强烈了。
 `````
 
 `````
