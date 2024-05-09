@@ -95,9 +95,58 @@ Männer entscheiden sich eher als Frauen für lukrative Berufe, obwohl auch für
 
 Um glücklich und zufrieden zu sein, braucht man aber nicht nur den richtigen Beruf, sondern auch den richtigen Arbeitsplatz. Und dort spielen natürlich auch die Vorgesetzten eine große Rolle. Wer als Chef hauptsächlich Druck ausübt, der demotiviert die Angestellten auf Dauer. Stattdessen sollten Mitarbeiter fachlich unterstützt und Konflikte schnell gelöst werden. Ein guter Chef kann auch eigene Fehler eingestehen und weiß, dass er nicht perfekt ist. Damit sich die Mitarbeiter wohlfühlen, ist eine positive und kooperative Firmenkultur unverzichtbar. 
 
-Aber auch die Art der Arbeit ist von Bedeutung. Die meisten Menschen beschäftigen sich gern mit anspruchsvollen Aufgaben. Um diese zu bewältigen, sollte man allerdings genug Zeit haben und nicht ständig unter Stress stehen. Außerdem ist das Gefühl wichtig, etwas Sinnvolles zu tun. Besonders schlimm ist es für Angestellte, wenn sie ständig Angst um ihren Job haben müssen und keinen Ausweg
+Aber auch die Art der Arbeit ist von Bedeutung. Die meisten Menschen beschäftigen sich gern mit anspruchsvollen Aufgaben. Um diese zu bewältigen, sollte man allerdings genug Zeit haben und nicht ständig unter Stress stehen. Außerdem ist das Gefühl wichtig, etwas Sinnvolles zu tun. Besonders schlimm ist es für Angestellte, wenn sie ständig Angst um ihren Job haben müssen und keinen Ausweg aus dieser Situation sehen, z. B. durch einen Stellenwechsel.
 
+Die Wirtschaft verändert sich heutzutage immer schneller. Arbeitnehmer sollten sich deshalb öfter fragen, ob die Arbeit ihre Erwartungen erfüllt. Sonst stellen besonders diejenigen, die sich im Job aufreiben, irgendwann fest, dass das restliche Leben leidet.
+`````
 
+# K4M1: Sport gegen Gewalt
+`````
+Wie in jeder Großstadt gibt es auch in Hamburg soziale Probleme. Denn was machen 15-Jährige in einem sozial schwachen Stadtteil nach der Schule? Vor einigen Jahren hätten die meisten Kids von Hamburg Jenfeld geantwortet: „Ab ins Einkaufszentrum.“ Hier ist es warm und trocken, man hat ein Dach über dem Kopf und kann sich seine Langeweile vertreiben: das eine oder andere klauen, Handtaschen stehlen, Graffiti sprühen und so weiter.
+
+Fahim Yusufzai, ein gebürtiger Afghane, arbeitete viele Jahre als Sicherheitsleiter im Einkaufszentrum Jenfeld. Täglich schnappte er Jugendliche beim Klauen oder Leute-Ärgern und Randalieren. Wer erwischt wurde, der bekam zunächst Hausverbot. Doch das nützte nichts. Wen Fahim Yusufzai der Polizei übergeben hatte, dem begegnete er am nächsten Tag garantiert erneut im Einkaufszentrum.
+
+Irgendwann wollte der Sicherheitsleiter nicht mehr tatenlos akzeptieren, dass es immer die gleichen Jugendlichen waren, die Ärger im Einkaufszentrum machten. Und er hatte eine Idee: Mit 13 begann sein Vater, ihm den Kampfsport Taekwondo beizubringen. „Tae“ steht für die Fußtechnik, „Kwon“ für Faust- und Armtechnik und „Do“ für den geistigen Weg. Seit 1989 trägt Fahim Yusufzai den schwarzen Gürtel. Wer diesen Sport treibt, dem sind Eigenschaften wie Disziplin, Selbstbeherrschung und Verantwortung für das eigene Handeln nicht fremd. Warum sollte er sein Wissen nicht an die Jugendlichen weitergeben? 
+
+Mit dem Verein „Sport gegen Gewalt“ konnte er den Jugendlichen besser helfen als durch Eintragungen der Polizei in ihr Führungszeugnis. Denn wer einmal solche Eintragungen hat, der hat sich seine Zukunft verbaut. Deshalb stellte er die Jugendlichen vor die Wahl: Wer zu ihm in sein Taekwondo-Training kommt, den bringt er nicht zur Polizei. Bis heute hat Fahim Yusufzai mit mehreren Hundert Kindern und Jugendlichen trainiert. Neben Taekwondo wird im Verein auch Kickboxen, Fußball und Basketball angeboten. Das regelmäßige Training stärkt das Gefühl, respektiert zu werden und etwas leisten zu können. 
+
+Die Jugendlichen sind motiviert und lernen, Stresssituationen ohne Waffe zu bewältigen und sich an Regeln zu halten. Wer im Training zum Beispiel flucht oder jemanden beleidigt, der muss Liegestütze machen. Die Kids werden selbstbewusster, entwickeln Zukunftspläne. Manche machen direkt nach dem Training ihre Hausaufgaben, bei denen sie Hilfe bekommen. Seitdem Fahim Yusufzai sein Training anbietet, ist die Zahl der Sachbeschädigungen und Diebstähle stark zurückgegangen.
+
+Der ehemalige Sicherheitsleiter des Einkaufszentrums Jenfeld ist immer für seine Kids da. Wen Probleme plagen, der hat die Möglichkeit, jederzeit mit ihm zu sprechen. Vertrauen, Disziplin und Respekt sind wichtige Vokabeln im Wortschatz von Fahim Yusufzai. Mit ihnen begründet er, was zunächst recht komisch scheint: Er lehrt kriminellen Jugendlichen einen Kampfsport. Aber: Wem er Taekwondo beibringt, der merkt schnell, dass es keinen Sinn macht, Mist zu bauen. Stattdessen kümmern sich die Jugendlichen um die Schule oder um einen Ausbildungsplatz.
+
+Der von Fahim Yusufzai gegründete Verein „Sport gegen Gewalt“ gilt als Vorbild für ähnliche Projekte in vielen Großstädten Deutschlands.
+`````
+
+# K4M2: Was bedeutet Armut für Arme?
+`````
+Armut zu definieren, ist schwierig, denn jeder empfindet sie anders. Hunger, Krankheiten oder Angst lassen sich nur schwer messen. Aus diesem Grund gibt es international anerkannte Kriterien, die dabei helfen zu erfassen, was Armut ist und wer als arm gilt. Auf ihrer Grundlage lässt sich Armut vergleichen. In einer Studie der Weltbank wurde untersucht, wie Arme ihre eigene Situation einschätzen. Dazu befragte man rund 60.000 Arme aus aller Welt. Die Studie macht sehr deutlich, welche Auswirkungen Armut auf diese Menschen hat: Hunger, kein Geld für die nötigsten Dinge des Alltags, ein Leben ohne Sicherheit, keine Aussicht auf eine bessere Zukunft und Krankheiten. Oft sind sie Naturkatastrophen und Gewaltübergriffen schutzlos ausgeliefert und haben keine Möglichkeit, ihr Leben selbst zu bestimmen.
+
+Weltweit leben mehr als eine Milliarde Menschen in extremer Armut. Ursachen dafür gibt es viele, zum Beispiel Dürreperioden, die die Ernte vernichten, viel zu niedrige Arbeitslöhne, Korruption, Kriege, Epidemien, Naturkatastrophen und ein hohes Bevölkerungswachstum. Meistens sind mehrere Gründe gleichzeitig für die Armut der Menschen in einem Land verantwortlich. Viele Ursachen von Armut können von den betroffenen Ländern nicht selbst und nicht allein beeinflusst werden.
+`````
+
+# K4M2: Einladung zu unserem diesjährigen Kongress
+`````
+Armut schließt immer mehr Menschen aus der Gesellschaft aus. Armut und soziale Ausgrenzung sind ein wesentlicher Faktor für die Entstehung gesundheitlicher Probleme. Wie ist die Situation in Deutschland? Dazu findet in diesem Jahr am Donnerstag und Freitag, den 13. und 14. März, in der Technischen Universität Berlin der Public Health-Kongress „Armut und Gesundheit“ statt.
+
+Unter dem Motto „Gesundheit langfristig fördern“ werden in zahlreichen Vorträgen und Seminaren Strategien zur Verbesserung der Gesundheitschancen von Menschen in schwierigen Lebenslagen thematisiert. Den Auftakt bildet am Donnerstag der Vortrag von Frau Prof. Meyer mit dem Titel „Armut macht krank — Krankheit macht arm?!“.
+
+Ab sofort besteht die Möglichkeit, sich für den Kongress „Armut und Gesundheit“ als Teilnehmer/in anzumelden. Wir laden Sie herzlich dazu ein.
+Bis 5. Januar können Sie Kongresskarten zum Frühbucherrabatt erwerben.
+Bestellungen richten Sie bitte an: kongress@gesundheit.de
+`````
+
+# K4M2: Aufruf zur Spende von Kleidungsstücken
+`````
+Wir möchten Sie darüber informieren, dass der DRK-Ortsverein Köln seit Kurzem auf dem DRK-Gelände eine Kleiderausgabe eröffnet hat. Dort werden gespendete Kleidungsstücke gesammelt, gereinigt und aufbereitet. Das DRK gibt während der Öffnungszeiten diese Kleider gegen eine niedrige Gebühr (0,50—2 €) an bedürftige Venschen ab. Gedacht ist dieses Angebot für all jene, die wenig Geld zur Verfügung haben: Sozialhilfeempfänger, Menschen ohne festen Wohnsitz, Flüchtlinge und Asylberechtigte sowie Menschen in akuten Notlagen. Neben gut erhaltenen Kleidungsstücken können Bedürftige auch Dinge für ihren Haushalt mitnehmen wie Wäsche, Bettzeug, Decken oder Geschirr.
+
+Wir würden uns freuen, wenn Sie uns Ihre nicht mehr gebrauchten, gut erhaltenen Kleidungsstücke und Heimtextilien für unsere soziale Arbeit überlassen. Wir nehmen auch Hausrat an. Sie können Ihre Spende während der Öffnungszeiten des Kleiderladens (Dienstag und Donnerstag, 14:00—18:00 Uhr) abgeben oder Sie werfen sie einfach durch die Kleiderklappe, die außen am Kleiderladen angebracht ist. Bitte nur gut erhaltene Kleidungsstücke einwerfen. Wir danken Ihnen für Ihre Spendenbereitschaft.
+`````
+
+# K4M2: Portemonnaie der Eltern entscheidet über Bildungserfolg der Kinder
+`````
+Jeder kennt das Sprichwort: "Der Apfel fällt nicht weit vom Stamm." Doch welcher Zusammenhang besteht in Deutschland zwischen der sozialen Herkunft eines Kindes und seinen Bildungschancen? Zwar heißt es immer wieder, Kinder brauchen vor allem Liebe und Zuneigung, doch wenn man Leistungs- und Bildungserwartungen hat, reicht das nicht aus. Wächst ein Kind in einer ökonomisch sicheren Familie auf, existieren in der Regel mehr Materialien (Spiele, Lernmaterialien) und zwar schon lange vor der Schulzeit. Die Familie kann sich außerdem Musikunterricht, Sportkurse und andere Fördermaßnahmen problemlos leisten. Wenn das Kind dann in die Schule geht, machen den Eltern auch Nachhilfestunden nur wenig aus. Mehr Geld zu haben bedeutet folglich, besser in der Schule zu sein.
+
+Mit der sozialen Herkunft hängt auch zusammen, welchen Stand die Bildung in der Familie hat. Eltern, die selbst einen höheren Bildungsabschluss haben und erfolgreich in Beruf und Leben sind, erachten es als wichtiger, ihren Kindern eine gute Bildung zu ermöglichen. Sie schätzen Bildung auch im Alltag und in der Freizeit. Den Kindern wird vorgelebt, dass Bildung etwas Erstrebenswertes ist. Dadurch steigern Kinder ihre Leistungsbereitschaft.
 `````
 
 # K4M4
