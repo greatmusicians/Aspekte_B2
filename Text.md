@@ -8,11 +8,46 @@ Eigentlich bin ich gar kein so besonders abenteuerlicher Typ. Aber als ich vor z
 
 Der Anfang in einem neuen Land ist allerdings ganz schön schwierig. Ich kannte niemanden außer David, musste mir eine Arbeit suchen und eine Arbeitserlaubnis zu bekommen, war schwieriger, als ich gedacht hatte. Ich hatte ziemlich großes Heimweh. Leider war die Beziehung mit David auch ziemlich schnell wieder zu Ende. Wir haben uns einfach zu oft gestritten. Aber ich habe nicht aufgegeben und zum Glück irgendwann eine Stelle als Grafikerin in einer großen Agentur gefunden und bei der Wohnungssuche hat mir netterweise ein Bekannter geholfen.
 
-Meine Entscheidung habe ich nie bereut Ich habe die Erfahrung gemacht, dass man einfach Zeit braucht, um sich in einem fremden Land einzuleben. Es ist aber ein tolles Gefühl, es zu schaffen. So eine Auslandserfahrung erweitert einfach den Horizont. Man lernt die Kultur eines anderen Landes kennen und erfährt dadurch auch viel über sich selbst und die eigene Kultur.
+Meine Entscheidung habe ich nie bereut. Ich habe die Erfahrung gemacht, dass man einfach Zeit braucht, um sich in einem fremden Land einzuleben. Es ist aber ein tolles Gefühl, es zu schaffen. So eine Auslandserfahrung erweitert einfach den Horizont. Man lernt die Kultur eines anderen Landes kennen und erfährt dadurch auch viel über sich selbst und die eigene Kultur.
 
 Am Anfang hatte ich trotz vieler Jahre Englischunterricht in der Schule Probleme mit der Sprache, aber mittlerweile ist mein Englisch richtig gut. Außerdem ist das Leben hier wirklich angenehm. Das Wetter, das Meer und die Landschaft sind einfach super. Überraschend war für mich, dass das Leben hier lockerer als in Deutschland ist. Die Leute sind nicht immer so gestresst und ich habe schnell viele neue Freunde gefunden. In Deutschland dauert das ja oft ein bisschen länger ...
 
 Natürlich skype ich auch jetzt noch oft stundenlang mit alten Freunden in Deutschland. Aber es ist besser als am Anfang. Da konnte ich oft an nichts anderes denken und habe täglich mehrere SMS und E-Mails nach Deutschland geschickt, jetzt schreibe ich meinen Eltern einmal pro Woche eine längere E-Mail. Es ist nicht immer einfach, so weit weg zu sein. Und ich warte seit Monaten sehnsüchtig auf den Besuch meiner besten Freundin. Auch wenn ich wirklich gut Englisch spreche, kann ich trotzdem nicht immer ganz genau das ausdrücken, was ich denke oder fühle. Da tut es einfach gut, zwischendurch mal in der eigenen Sprache zu sprechen.
+`````
+
+`````
+netterweise adv. 亲切地，友好地
+bereuen 后悔
+`````
+
+`````
+Ich habe es gewagt!
+
+wagen
+敢于做某事
+den Mut für etwas aufbringen
+einen Blick, einen Versuch, eine Wette, eine Sprung, ein Spiel wagen
+
+Er hat nicht den Mut aufgebracht, seine Tat einzugestehen.
+他没有勇气承认自己所做的事情。
+`````
+
+`````
+beschließen vs. sich entscheiden
+
+'beschließen' and 'entscheiden' do sometimes have the same meaning as in 'ich habe beschlossen mit dem Rauchen aufzuhören' or 'ich habe entschieden mit dem Rauchen aufzuhören'. However in other cases 'entscheiden' might mean 'to decide between anything/-one' and 'beschließen' is just the decision to take action or set a rule with no reason or choice.
+sich entschließen means to take action being fully committed. It comes from 'Entschlossenheit' which translates to commitment.
+
+they are all the same when used as "deciding". However, in some instances, one word sounds more natural than the other. "entscheiden" is usually used to decide between two or more options. "beschliessen" is usually preferred to express a decision of two or more people: "wir haben beschlossen" Finally, "entschliessen" is very similar in usage as "beschliessen". If "entschliessen" is used as adjective, e. g. "er ist entschlossen" it means his mind is firmly set on a certain idea, and unlikely to change. "entscheiden" can also be used as adjective "das ging entschieden zu weit" meaning "without a doubt"
+
+https://hinative.com/questions/15287979
+https://hinative.com/questions/188397
+`````
+
+`````
+Ich habe die Erfahrung gemacht, dass man einfach Zeit braucht, um sich in einem fremden Land einzuleben.
+My experience has been that you simply need time to settle into a foreign country.
+我的经验是，你只是需要时间来适应外国。
 `````
 
 # K1M2: Unsere Muttersprache — Ein Stück Heimat
@@ -22,9 +57,64 @@ Sie gibt uns das Gefühl der Vertrautheit und der Sicherheit. Mit ihr können wi
 Die Schweiz war von Anfang an ein vielsprachiges, multikulturelles Land, in dem mehrere Muttersprachen gesprochen werden, denn die Schweiz ist eine „Eidgenossenschaft": Das bedeutet, ein Zusammenschluss von inzwischen 26 Kantonen. Die einzelnen Kantone sind politisch sehr selbstständig und haben z. B. jeweils ein eigenes Parlament und auch unterschiedliche Amtssprachen. Schon im 17. Jahrhundert wurde jemand, der innerhalb der Schweiz reisen wollte oder musste, schnell mit einer anderen Sprache konfrontiert. Die Eliten in der Schweiz des 17. Jahrhunderts sprachen Latein und vor allem Französisch. Die Verwaltungssprache war aber Deutsch. Nachdem sich das Land um französisch- und italienischsprachige Gebiete vergrößert hatte, bekamen Französisch und Italienisch dieselbe Bedeutung wie Deutsch und 1848 wurden alle drei Sprachen als offizielle Landessprachen anerkannt. 1938 kam Rätoromanisch als vierte Sprache dazu. Neben diesen vier Sprachen werden dank Migration auch zahlreiche andere Sprachen gesprochen. Man sieht: Die Vielfalt der Sprachen ist in der Schweiz sehr groß und hat eine lange Tradition. Es gehört zum Alltag dazu.
 `````
 
+`````
+der Sachverhalt 事实情况，实情，事态
+trösten 安慰 = jmds. Leid, Kummer od. Trauer leichter machen
+der Zusammenschluss 联合，合并
+das Parlament [paʁlaˈmɛnt] 议会
+die Elite 精英
+die Verwaltung 行政部门，管理部门
+anerkennen 承认；认识到
+die Vielfalt 多样性
+`````
+
+`````
+Die einzelnen Kantone sind politisch sehr selbstständig und haben z. B. jeweils ein eigenes Parlament und auch unterschiedliche Amtssprachen.
+The individual cantons are politically very independent and each have their own parliament and different official languages.
+各个州在政治上非常独立，例如： B. 每个国家都有自己的议会和不同的官方语言。
+
+Die einzelnen Kantone 到底是要表达单数还是复数？
+
+jeweils 每次；各
+`````
+
+`````
+konfrontieren 迫使...面对
+
+jmdn. mit etw. konfrontieren
+jmd. wird plötzlich mit einer heiklen Situation konfrontiert
+
+Einer besonderen Vorstellung bedarf es nicht. Sie werden wissen, mit wem ich Sie konfrontiert habe.
+No special introduction is necessary. You will know who I have confronted you with.
+无需特别介绍。你会知道我和你对峙的是谁。
+啥意思？没看懂？
+
+bedürfen （支配第二格）需要
+Es bedarf keiner weiteren Erklärung.
+不需要更多解释。
+`````
+
+`````
+Es gehört zum Alltag dazu.
+It is part of everyday life.
+这是日常生活的一部分。
+
+dazugehören vs. gehören
+
+Dazugehören ist persönlicher und etwas was eine Person oder Ding tut.
+Beispiel:
+Der Reifen gehört zum Auto dazu.
+Ich gehöre zu der Gruppe dazu. = Ich bin der Gruppe zugehörig.
+
+Gehören gibt einen Besitz an.
+Beispiel :
+Der Stift gehört mir.
+Ich gehöre dir. (Sagt man, wenn man sich liebt.)
+`````
+
 # K1M2
 `````
-Manchmal glauben Nicht-Schweizer fälschlicherweise, dass alle Schweizerinnen und Schweizer vier Sprachen fließend beherrschen. Die meisten Schweizer leben jedoch in ihrem Sprachgebiet und nutzen Medien wie Zeitungen, Radio, Fernsehen usw. in ihrer Mutterspraohe.
+Manchmal glauben Nicht-Schweizer fälschlicherweise, dass alle Schweizerinnen und Schweizer vier Sprachen fließend beherrschen. Die meisten Schweizer leben jedoch in ihrem Sprachgebiet und nutzen Medien wie Zeitungen, Radio, Fernsehen usw. in ihrer Muttersprache.
 
 In der Schule lernen die Kinder in den französischsprachigen Kantonen als erste Fremdsprache Deutsch. In den deutschsprachigen Kantonen der Zentralschweiz und der Ostschweiz ist Englisch die erste Fremdsprache und in den übrigen Deutschschweizer Kantonen sowie im italienischsprachigen Tessin beginnen die Kinder in der Schule mit Französisch. Im großen Kanton Graubünden ist die erste Fremdsprache je nach Sprachregion Deutsch, Italienisch oder Rätoromanisch. Die Lehrpläne sind also innerhalb der Schweiz nicht einheitlich.
 
@@ -54,19 +144,24 @@ Damit ist Sonia Ladet ein Vorbild für die europäische Sprachenpolitik, denn mo
 
 Es gibt aber auch kritische Stimmen: Sind Kleinkinder mit Fremdsprachen nicht überfordert? Wissenschaftler bewiesen, dass diese Sorge unnötig ist. Ein Blick über Europa hinaus zeigt, dass z. B. in Asien oder Afrika oft mehrere Sprachen im Alltag benutzt werden: eine Sprache in Schulen und Behörden, eine andere im Bereich des Handels und wieder andere in der Familie oder im Dorf nebenan. „Unser Gehirn ist dafür angelegt, mehrere Sprachen zu lernen. Wir unterfordern Kinder, wenn wir ihnen diese Chance nicht bieten“, sagt Jürgen Meisel, Sprachwissenschaftler an der Universität Hamburg. Die Forschung unterstützt Eltern, denen die Mehrsprachigkeit ihrer Kinder von Anfang an wichtig ist. Sind die Kinder noch klein, also nicht älter als drei oder vier Jahre, scheinen sie eine fremde Sprache ohne große Mühe aufzunehmen und darin zu kommunizieren. Aber schon ab vier Jahren gelingt die Konjugation der Verben nicht mehr fehlerlos. Und bereits mit acht bis zehn Jahren ist die Phase des kinderleichten Sprachenlernens vorbei. Und das zu einem Zeitpunkt, zu dem Kinder normalerweise in der Schule mit dem Erlernen der ersten Fremdsprache beginnen.
 
-Für Eltern ist es nicht leicht, fest daran zu glauben, dass das Aufwachsen mit mehreren Sprachen ein Vorteil für die eigenen Kinder ist. Warum spricht mein Kind nicht in der zweiten Sprache? Warum dauert die Sprachentwicklung länger als bei einsprachigen Kindern? Das sind Fragen, mit denen sich Eltern zweisprachiger Kinder oft herumschlagen. Oder wenn Kinder beim Spielen die fremde Sprache vermeiden, weil sie nicht anders sein wollen. Die betroffenen Eltern müssen sehr geduldig sein. 
-Und diese Geduld kann sich im späteren Leben auch auszahlen. Neben der Fähigkeit, mehrere Sprachen gut zu beherrschen, gibt es noch weitere Kompetenzen, wie Albert Costa von der Universität Barcelona beobachtet hat. Der Psychologe stellte fest, dass zweisprachige Kinder mehr Eindrücke aufnehmen und wichtige Dinge besser von unwichtigen unterscheiden können. Schon vorher konnte er nachweisen, dass Personen, die bilingual aufgewachsen waren, in einem lauten Großraumbüro bessere Konzentrationsleistungen zeigten als monolinguale Menschen.
+Für Eltern ist es nicht leicht, fest daran zu glauben, dass das Aufwachsen mit mehreren Sprachen ein Vorteil für die eigenen Kinder ist. Warum spricht mein Kind nicht in der zweiten Sprache? Warum dauert die Sprachentwicklung länger als bei einsprachigen Kindern? Das sind Fragen, mit denen sich Eltern zweisprachiger Kinder oft herumschlagen. Oder wenn Kinder beim Spielen die fremde Sprache vermeiden, weil sie nicht anders sein wollen. Die betroffenen Eltern müssen sehr geduldig sein. Und diese Geduld kann sich im späteren Leben auch auszahlen. Neben der Fähigkeit, mehrere Sprachen gut zu beherrschen, gibt es noch weitere Kompetenzen, wie Albert Costa von der Universität Barcelona beobachtet hat. Der Psychologe stellte fest, dass zweisprachige Kinder mehr Eindrücke aufnehmen und wichtige Dinge besser von unwichtigen unterscheiden können. Schon vorher konnte er nachweisen, dass Personen, die bilingual aufgewachsen waren, in einem lauten Großraumbüro bessere Konzentrationsleistungen zeigten als monolinguale Menschen.
 
 Aber wie geht Sonia Ladet eigentlich mit den vielen Sprachen um? Sie hört russische Lieder, diskutiert in englischen Polit-Foren und fragt auf Japanisch nach, was Frauen unter Schönheit verstehen. „So geht Sprachenlernen ganz leicht", sagt die Pariserin.
 
 Simon Tauber
 `````
 
+`````
+Und das zu einem Zeitpunkt, zu dem Kinder normalerweise in der Schule mit dem Erlernen der ersten Fremdsprache beginnen.
+
+什么意思？没有动词？
+`````
+
 # K2M4: So streiten Sie richtig!
 `````
-„Streit kommt in den besten Familien vor”, heißt es in einer deutschen Redewendung. Doch nicht nur dort, sondern auch am Arbeitsplatz oder unter Freunden geht es nicht ganz ohne Konflikte. Streit ist also ganz normal, solanee er niemanden verletzt und eine Lösung bringt. Wie man richtig streitet, kann man lernen.
+„Streit kommt in den besten Familien vor”, heißt es in einer deutschen Redewendung. Doch nicht nur dort, sondern auch am Arbeitsplatz oder unter Freunden geht es nicht ganz ohne Konflikte. Streit ist also ganz normal, solange er niemanden verletzt und eine Lösung bringt. Wie man richtig streitet, kann man lernen.
 
-Endete der letzte Streit wieder mal mit lautem Schreien und Türenknallen? Die Hamburger Therapeutin Sigrid Meissner sagt, dass das nicht sein muss, und gibt Tipps, was man beachten kann, um der Konfliktlösung näher zu kommen. Keine guten Äussichten auf Erfolg hat ein Streit, der mit einem Vorwurf beginnt. Sie sind richtig sauer? Vielleicht mit Recht, aber versuchen Sie trotzdem ruhig zu bleiben und auch ruhig über Ihre Gefühle zu sprechen.
+Endete der letzte Streit wieder mal mit lautem Schreien und Türenknallen? Die Hamburger Therapeutin Sigrid Meissner sagt, dass das nicht sein muss, und gibt Tipps, was man beachten kann, um der Konfliktlösung näher zu kommen. Keine guten Aussichten auf Erfolg hat ein Streit, der mit einem Vorwurf beginnt. Sie sind richtig sauer? Vielleicht mit Recht, aber versuchen Sie trotzdem ruhig zu bleiben und auch ruhig über Ihre Gefühle zu sprechen.
 
 Die dreckige Küche hat Ihren Streit ausgelöst? Dann sprechen Sie auch nur darüber. Erweitern Sie Ihre Kritik nicht auf andere Punkte, die Sie eventuell auch noch stören wie Erziehungsfragen, Geld oder die Erledigung von Arbeiten. „Bleiben Sie beim Thema”, rät die Therapeutin. Dann hat Ihr Gegenüber auch die Chance, konkret zu reagieren.
 
@@ -137,7 +232,7 @@ Bestellungen richten Sie bitte an: kongress@gesundheit.de
 
 # K4M2: Aufruf zur Spende von Kleidungsstücken
 `````
-Wir möchten Sie darüber informieren, dass der DRK-Ortsverein Köln seit Kurzem auf dem DRK-Gelände eine Kleiderausgabe eröffnet hat. Dort werden gespendete Kleidungsstücke gesammelt, gereinigt und aufbereitet. Das DRK gibt während der Öffnungszeiten diese Kleider gegen eine niedrige Gebühr (0,50—2 €) an bedürftige Venschen ab. Gedacht ist dieses Angebot für all jene, die wenig Geld zur Verfügung haben: Sozialhilfeempfänger, Menschen ohne festen Wohnsitz, Flüchtlinge und Asylberechtigte sowie Menschen in akuten Notlagen. Neben gut erhaltenen Kleidungsstücken können Bedürftige auch Dinge für ihren Haushalt mitnehmen wie Wäsche, Bettzeug, Decken oder Geschirr.
+Wir möchten Sie darüber informieren, dass der DRK-Ortsverein Köln seit Kurzem auf dem DRK-Gelände eine Kleiderausgabe eröffnet hat. Dort werden gespendete Kleidungsstücke gesammelt, gereinigt und aufbereitet. Das DRK gibt während der Öffnungszeiten diese Kleider gegen eine niedrige Gebühr (0,50—2 €) an bedürftige Menschen ab. Gedacht ist dieses Angebot für all jene, die wenig Geld zur Verfügung haben: Sozialhilfeempfänger, Menschen ohne festen Wohnsitz, Flüchtlinge und Asylberechtigte sowie Menschen in akuten Notlagen. Neben gut erhaltenen Kleidungsstücken können Bedürftige auch Dinge für ihren Haushalt mitnehmen wie Wäsche, Bettzeug, Decken oder Geschirr.
 
 Wir würden uns freuen, wenn Sie uns Ihre nicht mehr gebrauchten, gut erhaltenen Kleidungsstücke und Heimtextilien für unsere soziale Arbeit überlassen. Wir nehmen auch Hausrat an. Sie können Ihre Spende während der Öffnungszeiten des Kleiderladens (Dienstag und Donnerstag, 14:00—18:00 Uhr) abgeben oder Sie werfen sie einfach durch die Kleiderklappe, die außen am Kleiderladen angebracht ist. Bitte nur gut erhaltene Kleidungsstücke einwerfen. Wir danken Ihnen für Ihre Spendenbereitschaft.
 `````
@@ -277,7 +372,7 @@ Auch im Kindergartenalter können bereits naturwissenschaftliche Experimente dur
 `````
 Nach zahlreichen Gesprächen mit Forschern und Technikern zeigt uns der Journalist Alan Weisman seine Vision von der Zukunft: Eine Welt ohne die Spezies Mensch.
 
-Ökologen flamm sich scholl jetzt über die Prognosen, die Weisman in seinem Buch „The world without us" beschreibt: Unsere Erde kann gut ohne den Menschen auskommen und es gibt kaum einen, der uns vermissen würde. Die Natur würde sich Städte und Gebäude schnell zurückerobern, wenn der Mensch nicht mehr da ist. Trotzdem hinterlassen wir Spuren, die auch noch in Millionen von Jahren sichtbar wären.
+Ökologen flamm sich schon jetzt über die Prognosen, die Weisman in seinem Buch „The world without us" beschreibt: Unsere Erde kann gut ohne den Menschen auskommen und es gibt kaum einen, der uns vermissen würde. Die Natur würde sich Städte und Gebäude schnell zurückerobern, wenn der Mensch nicht mehr da ist. Trotzdem hinterlassen wir Spuren, die auch noch in Millionen von Jahren sichtbar wären.
 
 Bereits nach 48 Stunden ohne Menschen, schreibt Weisman, würde die New Yorker U-Bahn unter Wasser stehen. Der Grund: Ohne Pumpen, um die sich niemand mehr kümmern könnte, läuft Grundwasser in die U-Bahn. Bis zu 40 Millionen Liter Wasser hätten dann freie Bahn und keiner hält sie auf. Auch andere Bauwerke in der Stadt würden ohne uns bereits nach einigen Jahren einstürzen. Die Straßen versinken in der Erde und bilden eine gute Basis für neue Flüsse. Die Natur braucht nur zwei Jahrzehnte und niemanden von uns als Hilfe, um die Städte wieder fest im Griff zu haben.
 
